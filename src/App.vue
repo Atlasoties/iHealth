@@ -6,7 +6,6 @@
 
 <script>
 import { IonApp, IonRouterOutlet } from '@ionic/vue';
-
 export default {
   name: 'App',
   components: {
